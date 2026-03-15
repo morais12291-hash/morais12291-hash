@@ -12,4 +12,4 @@ Tecnologias que estudo
 ---
  Como me encontrar
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:morais12291@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morais12291@gmail.com)
